@@ -1,0 +1,43 @@
+{
+  "name": "i-will-ans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "chatgpt": "src/index.js",
+    "iwillans": "src/index.js",
+    "askme": "src/index.js"
+  },
+  "files": [
+    "src/index.js"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "opennai",
+    "chatgpt",
+    "chatgpt-cli",
+    "cli",
+    "cli-opennai",
+    "opennai-cli",
+    "askme-cli",
+    "opennai windows",
+    "opennai macos",
+    "opennai linux",
+    "opennai windows mac linux",
+    "csalam",
+    "csalam07"
+  ],
+  "author": {
+    "name": "csalam07",
+    "linkedIn": "linkedin.com/in/shahbajz-alam-b47678193",
+    "twitter": "https://twitter.com/CSALam12"
+  },
+  "bugs": {
+    "url": "https://github.com/csalam07/iwillans-cli/issues"
+  },
+  "homepage": "https://github.com/csalam07/iwillans-cli#readme",
+  "license": "MIT"
+}
