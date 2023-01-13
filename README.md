@@ -23,21 +23,27 @@ It requires [Node.js](https://nodejs.org/) v16+ to run.
 Using NPM.
 
 ```sh
-npm install i-will-ans
-```
-
-Using Yarn
-
-```sh
-yarn add i-will-ans
+npm install -g i-will-ans
 ```
 
 ## Uses
 
 The ChatGPT CLI can be used to perform a variety of language tasks and generate text. Some examples of how to use the tool are as follows:
 
+Use eitehr of theese three commands
+
 ```sh
 $ iwillans
+```
+
+or
+
+```sh
+$ chatgpt
+```
+
+```sh
+$ askme
 ```
 
 Example:
